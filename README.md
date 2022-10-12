@@ -10,4 +10,8 @@ HSF will be held in Tampere 28.-30.10.2022
 
 ## Previous years
 
-TODO build a history here, the old site was lost...
+TODO build history here, the old site was lost...
+
+### 2019
+
+[in Tampere](https://tampere.hacklab.fi/pages/hacklab-summit-finland-2019/)
