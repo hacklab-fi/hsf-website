@@ -17,3 +17,11 @@ TODO build history here, the old site was lost...
 ### 2019
 
 [in Tampere](https://tampere.hacklab.fi/pages/hacklab-summit-finland-2019/)
+
+### 2017
+
+[in Tampere](https://tampere.hacklab.fi/pages/hacklab-summit-finland-2017/)
+
+### 2016
+
+[in Tampere](https://tampere.hacklab.fi/pages/hsf16/)
