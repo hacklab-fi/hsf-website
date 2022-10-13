@@ -18,6 +18,12 @@ TODO build history here, the old site was lost...
 
 [in Tampere](https://tampere.hacklab.fi/pages/hacklab-summit-finland-2019/)
 
+### 2018
+
+[in Jyväskylä](https://helsinki.hacklab.fi/2018/03/finnish-hackerspaces-meet-in-jyvaskyla/)
+
+[what happened](https://jyväskylä.hacklab.fi/2018/03/05/hacklab-summit-finland-1-4-3/)
+
 ### 2017
 
 [in Tampere](https://tampere.hacklab.fi/pages/hacklab-summit-finland-2017/)
