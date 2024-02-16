@@ -5,7 +5,7 @@ Once again we can have HSF!
 ## Year 2024
 
 Tampere 18.5.2024 
-[More details coming](https://tampere.hacklab.fi/pages/hacklab-summit-finland-2024/)
+[More details coming](https://tampere.hacklab.fi/pages/hsf24/)
 
 ## Year 2023
 
